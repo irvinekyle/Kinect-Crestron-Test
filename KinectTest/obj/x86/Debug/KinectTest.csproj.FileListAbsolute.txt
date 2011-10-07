@@ -12,3 +12,15 @@ C:\Users\kyle.irvine\Documents\Visual Studio 2010\Projects\KinectTest\KinectTest
 C:\Users\kyle.irvine\Documents\Visual Studio 2010\Projects\KinectTest\KinectTest\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\kyle.irvine\Documents\Visual Studio 2010\Projects\KinectTest\KinectTest\obj\x86\Debug\KinectTest.exe
 C:\Users\kyle.irvine\Documents\Visual Studio 2010\Projects\KinectTest\KinectTest\obj\x86\Debug\KinectTest.pdb
+C:\Users\kyle.irvine\Desktop\Projects\Research-Kinect\irvinekyle-Kinect-Crestron-Test-fb19f8e\irvinekyle-Kinect-Crestron-Test-fb19f8e\KinectTest\obj\x86\Debug\KinectTest.exe
+C:\Users\kyle.irvine\Desktop\Projects\Research-Kinect\irvinekyle-Kinect-Crestron-Test-fb19f8e\irvinekyle-Kinect-Crestron-Test-fb19f8e\KinectTest\obj\x86\Debug\KinectTest.pdb
+C:\Users\kyle.irvine\Desktop\Projects\Research-Kinect\irvinekyle-Kinect-Crestron-Test-fb19f8e\irvinekyle-Kinect-Crestron-Test-fb19f8e\KinectTest\bin\Debug\KinectTest.exe
+C:\Users\kyle.irvine\Desktop\Projects\Research-Kinect\irvinekyle-Kinect-Crestron-Test-fb19f8e\irvinekyle-Kinect-Crestron-Test-fb19f8e\KinectTest\bin\Debug\KinectTest.pdb
+C:\Users\kyle.irvine\Desktop\Projects\Research-Kinect\irvinekyle-Kinect-Crestron-Test-fb19f8e\irvinekyle-Kinect-Crestron-Test-fb19f8e\KinectTest\bin\Debug\Org.Mentalis.Security.dll
+C:\Users\kyle.irvine\Desktop\Projects\Research-Kinect\irvinekyle-Kinect-Crestron-Test-fb19f8e\irvinekyle-Kinect-Crestron-Test-fb19f8e\KinectTest\bin\Debug\Coding4Fun.Kinect.WinForm.pdb
+C:\Users\kyle.irvine\Desktop\Projects\Research-Kinect\irvinekyle-Kinect-Crestron-Test-fb19f8e\irvinekyle-Kinect-Crestron-Test-fb19f8e\KinectTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kyle.irvine\Desktop\Projects\Research-Kinect\irvinekyle-Kinect-Crestron-Test-fb19f8e\irvinekyle-Kinect-Crestron-Test-fb19f8e\KinectTest\obj\x86\Debug\KinectTest.Form1.resources
+C:\Users\kyle.irvine\Desktop\Projects\Research-Kinect\irvinekyle-Kinect-Crestron-Test-fb19f8e\irvinekyle-Kinect-Crestron-Test-fb19f8e\KinectTest\obj\x86\Debug\KinectTest.Log.resources
+C:\Users\kyle.irvine\Desktop\Projects\Research-Kinect\irvinekyle-Kinect-Crestron-Test-fb19f8e\irvinekyle-Kinect-Crestron-Test-fb19f8e\KinectTest\obj\x86\Debug\KinectTest.Properties.Resources.resources
+C:\Users\kyle.irvine\Desktop\Projects\Research-Kinect\irvinekyle-Kinect-Crestron-Test-fb19f8e\irvinekyle-Kinect-Crestron-Test-fb19f8e\KinectTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kyle.irvine\Desktop\Projects\Research-Kinect\irvinekyle-Kinect-Crestron-Test-fb19f8e\irvinekyle-Kinect-Crestron-Test-fb19f8e\KinectTest\obj\x86\Debug\GenerateResource.write.1.tlog
