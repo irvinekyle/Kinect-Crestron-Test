@@ -84,7 +84,7 @@ namespace KinectTest
 
         void acnxConnection_onError(object sender, ActiveCNXErrorEventArgs e)
         {
-            throw new NotImplementedException();
+            throw new NotImplementedException(); 
         }
 
         void acnxConnection_onDisconnect(object sender, ActiveCNXConnectionEventArgs e)
@@ -100,11 +100,13 @@ namespace KinectTest
         void sre_SpeechRecognitionRejected(object sender, SpeechRecognitionRejectedEventArgs e)
         {
             this.log.LogEvent("\nSpeech Rejected");
+            textBox1.Text = "Speech Rejected \n";
         }
 
         void sre_SpeechHypothesized(object sender, SpeechHypothesizedEventArgs e)
         {
             this.log.LogEvent(string.Format("\nSpeech Hypothesized: \t{0}", e.Result.Text));
+            textBox1.Text = "Speech Hypothesized \n";
         }
 
         void sre_SpeechRecognized(object sender, SpeechRecognizedEventArgs e)
@@ -120,12 +122,12 @@ namespace KinectTest
 
         private void btnConnect_Click(object sender, EventArgs e)
         {
-
+            textBox1.Text = "Connect button clicked \n";
         }
 
         private void btnDisconnect_Click(object sender, EventArgs e)
         {
-
+            textBox1.Text = "Disconnect button clicked \n";
         }
 
         private void btnSendTest_Click(object sender, EventArgs e)

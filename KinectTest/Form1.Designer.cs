@@ -44,6 +44,7 @@
             this.cmbBoxSlot = new System.Windows.Forms.ComboBox();
             this.cmbBoxSignalType = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -219,11 +220,20 @@
             this.label3.TabIndex = 6;
             this.label3.Text = "Signal Type";
             // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(4, 189);
+            this.textBox1.Multiline = true;
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(371, 161);
+            this.textBox1.TabIndex = 9;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(380, 189);
+            this.ClientSize = new System.Drawing.Size(380, 362);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
@@ -233,6 +243,7 @@
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -254,6 +265,7 @@
         private System.Windows.Forms.ComboBox cmbBoxSlot;
         private System.Windows.Forms.ComboBox cmbBoxSignalType;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }
 
